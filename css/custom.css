@@ -1,0 +1,11 @@
+.reveal {
+  font-family: "Arial", sans-serif;
+}
+
+.reveal .slides section {
+  text-align: left;
+}
+
+.fragment {
+  font-size: 1.2em;
+}
